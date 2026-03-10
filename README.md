@@ -18,4 +18,4 @@ The program simulates basic banking operations such as logging in with a usernam
 ## Purpose
 This project was created to practice Python fundamentals, functions, classes, and basic program logic.
 ‏
-Author : Tariq H. Almalki
+## Author : Tariq H. Almalki
